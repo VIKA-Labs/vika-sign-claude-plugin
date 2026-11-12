@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vika-sign": {
+      "type": "http",
+      "url": "https://sign.vikasign.com/mcp"
+    }
+  }
+}
