@@ -1,0 +1,12 @@
+{
+  "name": "vika-sign",
+  "displayName": "VIKA Sign",
+  "version": "1.2.0",
+  "description": "Pesquise, revise e acompanhe acordos, contratos, aceites, automações e evidências auditáveis do VIKA Sign com permissões da sua conta e confirmação para ações importantes.",
+  "author": {
+    "name": "VIKA Labs",
+    "url": "https://sign.vikasign.com"
+  },
+  "homepage": "https://sign.vikasign.com/connectors/claude",
+  "license": "LicenseRef-VIKA-Proprietary"
+}
