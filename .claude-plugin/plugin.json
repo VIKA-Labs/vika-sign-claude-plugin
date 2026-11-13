@@ -8,5 +8,6 @@
     "url": "https://sign.vikasign.com"
   },
   "homepage": "https://sign.vikasign.com/connectors/claude",
+  "privacyPolicyUrl": "https://sign.vikasign.com/privacy.html",
   "license": "LicenseRef-VIKA-Proprietary"
 }
